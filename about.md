@@ -8,8 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Este espacio pretende proover una plataforma para exponer el monopolio bancario que existe en Chile, que es protegido por el mismo estado. En una serie de articulos voy presentar la problemática y proponer posibles alternativas al sistema monetario actual, que sirva también como motor de justicia social
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[dorianflores@protonmail.com](mailto:dorianflores@protonmail.com)
